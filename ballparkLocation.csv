@@ -1,0 +1,31 @@
+,address,ballpark,lat,lng,location,teamname
+0,333 West Camden Street,Oriole Park,39.2839198,-76.6222847,"Baltimore, MD 21201",Baltimore Orioles
+1,4 Yawkey Way,Fenway Park,42.3458436,-71.0987819,"Boston, MA 02215",Boston Red Sox
+2,333 West 35th Street,Guaranteed Rate Field,41.8300088,-87.6337735,"Chicago, IL 60616",Chicago White Sox
+3,2401 Ontario Street,Progressive Field,41.4957048,-81.6852732,"Cleveland, OH 44115",Cleveland Indians
+4,2100 Woodward Avenue,Comerica Park,42.339293,-83.0488729,"Detroit, MI 48201",Detroit Tigers
+5,501 Crawford Street,Minute Maid Park,29.7577058,-95.3545399,"Houston, TX 77002",Houston Astros
+6,One Royal Way,Kauffman Stadium,39.051465,-94.4802889,"Kansas City, MO 64129",Kansas City Royals
+7,2000 Gene Autry Way,Angel Stadium,33.8002902,-117.8827493,"Anaheim, CA 92806",Los Angeles Angels
+8,1 Twins Way,Target Field,44.9817121,-93.2777599,"Minneapolis, MN 55403",Minnesota Twins
+9,One East 161st Street,Yankee Stadium,40.8288189,-73.9265691,"Bronx, NY 10451",New York Yankees
+10,7000 Coliseum Way,Oakland Coliseum,37.750277,-122.2028616,"Oakland, CA 94621",Oakland Athletics
+11,P.O. Box 4100,Safeco Field,47.6015566,-122.3323351,"Seattle, WA 98104",Seattle Mariners
+12,One Tropicana Drive,Tropicana Field,27.7681114,-82.653269,"St. Petersburg, FL 33705",Tampa Bay Rays
+13,1000 Ballpark Way,Globe Life Park in Arlington,32.7512434,-97.0825092,"Arlington, TX 76011",Texas Rangers
+14,"1 Blue Jays Way, Suite 3200",Rogers Centre,43.6417388,-79.3892547,"Toronto, Ontario, Canada M5V1J1",Toronto Blue Jays
+15,401 East Jefferson Street,Chase Field,33.4453626,-112.0674961,"Phoenix, AZ 85004",Arizona Diamondbacks
+16,755 Battery Avenue,SunTrust Park,33.8907566,-84.469205,"Atlanta, GA 30339",Atlanta Braves
+17,1060 West Addison,Wrigley Field,41.9474536,-87.6561341,"Chicago, IL 60613-4397",Chicago Cubs
+18,100 Main Street,Great American Ball Park,39.0978453,-84.5081117,"Cincinnati, OH 45202-4109",Cincinnati Reds
+19,2001 Blake Street,Coors Field,39.7559779,-104.9933491,"Denver, CO 80205-2000",Colorado Rockies
+20,1000 Vin Scully Avenue,Dodger Stadium,34.073873,-118.2407774,"Los Angeles, CA 90012",Los Angeles Dodgers
+21,501 Marlins Way,Marlins Park,25.7781113,-80.2195567,"Miami, FL 33125",Miami Marlins
+22,One Brewers Way,Miller Park,43.028078,-87.9712117,"Milwaukee, WI 53214",Milwaukee Brewers
+23,120-01 Roosevelt Avenue,Citi Field,40.7500069,-73.862555,"Corona, NY 11368",New York Mets
+24,One Citizens Bank Way,Citizens Bank Park,39.9059929,-75.1666401,"Philadelphia, PA 19148",Philadelphia Phillies
+25,115 Federal Street,PNC Park,40.4471507,-80.0064087,"Pittsburgh, PA 15212",Pittsburgh Pirates
+26,100 Park Boulevard,Petco Park,32.7072046,-117.155795,"San Diego, CA 92101",San Diego Padres
+27,24 Willie Mays Plaza,AT&T; Park,37.7785351,-122.3894833,"San Francisco, CA 94107",San Francisco Giants
+28,700 Clark Street,Busch Stadium,38.6226441,-90.1928125,"St. Louis, MO 63102",St. Louis Cardinals
+29,"1500 South Capitol Street, SE",Nationals Park,38.8730933,-77.0075727,"Washington, DC 20003-1507",Washington Nationals
